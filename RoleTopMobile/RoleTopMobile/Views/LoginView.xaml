@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RoleTopMobile.Views.LoginView">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#1F1B24">
+
+            <StackLayout Padding="0,30,0,0" VerticalOptions="StartAndExpand">
+                <Image Source="appstore.png" HorizontalOptions="CenterAndExpand" WidthRequest="150"/>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand">
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="E-mail:" TextColor="#F25E3D" FontSize="Large"/>
+                </StackLayout>
+
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Entry x:Name="TxtEmail" Placeholder="Insira o email" PlaceholderColor="#F3F1F5" TextColor="#F3F1F5" ClearButtonVisibility="WhileEditing" WidthRequest="300" ></Entry>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" Padding="0,10,0,0">
+                    <Label Text="Senha:" TextColor="#F25E3D" FontSize="Large"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                    <Entry x:Name="TxtSenha" Placeholder="Insira a senha" PlaceholderColor="#F3F1F5" TextColor="#F3F1F5" IsPassword="True" ClearButtonVisibility="WhileEditing" WidthRequest="300"></Entry>
+                </StackLayout>
+
+                <StackLayout Padding="0,30,0,0">
+                    <Button Text="Entrar" Clicked="Button_Clicked" FontSize="Large" FontAttributes="Bold" BackgroundColor="#F29F05" TextColor="Black" CornerRadius="17"></Button>                                                    
+                </StackLayout>
+            </StackLayout>
+            <StackLayout VerticalOptions="EndAndExpand" Padding="0,0,0,10">
+                <Button Text="Não tem cadastro? Crie já!" FontSize="Medium" TextColor="#B429CC" BackgroundColor="Transparent" Clicked="BtnCadastro_Clicked"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,134 @@
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EstadioEvents.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfo.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.deps.json
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.deps.json
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csprojAssemblyReference.cache
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EstadioEvents.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfoInputs.cache
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfo.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\Splash.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\JogoDetail.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ShowDetail.xaml.g.cs
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.deps.json
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EstadioEvents.xaml.g.cs
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\JogoDetail.xaml.g.cs
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ShowDetail.xaml.g.cs
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\Splash.xaml.g.cs
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfo.cs
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Users\fic\Desktop\Exercícios\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.deps.json
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EstadioEvents.xaml.g.cs
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\JogoDetail.xaml.g.cs
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ShowDetail.xaml.g.cs
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\Splash.xaml.g.cs
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfo.cs
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\fic\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EventsDetail.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\JogoDetail.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ShowDetail.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\Splash.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ConfiguracaoView.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ConfiguracaoView.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EventsDetail.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csprojAssemblyReference.cache
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\BuscaView.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ConfiguracaoView.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EstadioEvents.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EventsDetail.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\JogoDetail.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\MenuView.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ShowDetail.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\Splash.xaml.g.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfoInputs.cache
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfo.cs
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.deps.json
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Senai\BCKP\To copy\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\BuscaView.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\MenuView.xaml.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\BuscaView.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\MenuView.xaml.g.cs
+C:\Senai\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\BuscaView.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ConfiguracaoView.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EstadioEvents.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\EventsDetail.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\JogoDetail.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\MenuView.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\ShowDetail.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\Views\Splash.xaml.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.AssemblyInfo.cs
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.deps.json
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.dll
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\ref\RoleTopMobile.dll
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\bin\Debug\netstandard2.0\RoleTopMobile.pdb
+C:\Users\felip\Desktop\RoleTopXamarim\RoleTopMobile\RoleTopMobile\obj\Debug\netstandard2.0\XamlC.stamp

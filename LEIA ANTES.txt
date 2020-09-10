@@ -1,0 +1,5 @@
+O projeto ainda não foi adaptado para interagir 100% com a API.
+No momento apenas o cadastro e o login atuam da forma correta.
+Para demais testes, há dados estáticos.
+
+Devido a continuidade do desenvolvimento não há executável.

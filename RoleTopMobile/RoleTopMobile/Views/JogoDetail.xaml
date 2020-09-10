@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RoleTopMobile.Views.JogoDetail">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#1F1B24">
+            <StackLayout Orientation="Horizontal" Margin="5" Padding="10">
+                <Image Source="baseline_arrow_back_white_36.png" HeightRequest="30"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="StartAndExpand">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnClickBack"  NumberOfTapsRequired="1" />
+                    </Image.GestureRecognizers>
+                </Image>
+                <Image Source="appstore.png" HeightRequest="50"
+                    VerticalOptions="StartAndExpand" 
+                    HorizontalOptions="EndAndExpand" />
+            </StackLayout>
+
+            <ScrollView Padding="10">
+                <StackLayout>
+                    <StackLayout VerticalOptions="CenterAndExpand">
+                        <StackLayout>
+                            <Image Source="Maracana_2014_e.jpg" Aspect="AspectFill" HeightRequest="200" Margin="0, 10, 0, 10"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="Brasil_Bandeira.jpg" HorizontalOptions="StartAndExpand" HeightRequest="80"/>
+                            <Image Source="Alemanha_Bandeira.jpg" HorizontalOptions="EndAndExpand" HeightRequest="80"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="BRASIL" TextColor="White" FontSize="16" FontAttributes="Bold" HorizontalTextAlignment="Center" HorizontalOptions="StartAndExpand"/>
+                            <Label Text="X" TextColor="White" FontSize="16" FontAttributes="Bold" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand"/>
+                            <Label Text="ALEMANHA" TextColor="White" FontSize="16" FontAttributes="Bold" HorizontalTextAlignment="Center" HorizontalOptions="EndAndExpand"/>
+                        </StackLayout>
+                        <StackLayout VerticalOptions="CenterAndExpand">
+                            <Label Text="Clássico com histórico de dar Alemanha" TextColor="White" FontSize="16"/>
+                        </StackLayout>
+                        <StackLayout VerticalOptions="EndAndExpand" Orientation="Horizontal">
+                            <Label Text="DATA: " TextColor="White" FontSize="16"/>
+                            <Label Text="12/10/2020" TextColor="White" FontSize="16"/>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+            <StackLayout VerticalOptions="EndAndExpand" HeightRequest="50" BackgroundColor="#F29F05" Orientation="Horizontal" >
+                <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand" Padding="40, 0, 0, 0">
+                    <Image Source="baseline_explore_24.xml" HorizontalOptions="Center"  Scale="1.5">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnClickExplore"  NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                </StackLayout>
+                <StackLayout VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand">
+                    <Image Source="baseline_map_24.xml" HorizontalOptions="Center"  Scale="1.5">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnClickMaps"  NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                </StackLayout>
+                <StackLayout VerticalOptions="CenterAndExpand"  HorizontalOptions="EndAndExpand" Padding="0, 0, 40, 0">
+                    <Image Source="baseline_arrow_upward_24.xml" HorizontalOptions="Center" Scale="1.5">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnClickArrow"  NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

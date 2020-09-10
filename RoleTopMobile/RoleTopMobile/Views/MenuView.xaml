@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RoleTopMobile.Views.MenuView"
+             Title="Menu">
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#F29F05">
+            <StackLayout>
+                <Image Source="baseline_arrow_downward_24.png"  Margin="20"
+                HeightRequest="50"
+                Scale="2"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="EndAndExpand">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnClickBack"  NumberOfTapsRequired="1" />
+                    </Image.GestureRecognizers>
+                </Image>
+            </StackLayout>
+            <StackLayout>
+                <Image Source="appstore.png"
+                   HeightRequest="120"    
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"/>
+            </StackLayout>
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="300" Margin="50">
+                <Button Text="Início" FontSize="26" BackgroundColor="#F29F05" Clicked="BtnInicio_Clicked" Padding="20" FontAttributes="Bold"/>
+                <Button Text="Buscar" FontSize="26" BackgroundColor="#F29F05" Clicked="BtnBusca_Clicked" Padding="20" FontAttributes="Bold"/>
+                <Button Text="Configurações" FontSize="26" BackgroundColor="#F29F05" Clicked="BtnConfig_Clicked" Padding="20" FontAttributes="Bold"/>
+            </StackLayout>
+            <StackLayout BackgroundColor="#F28705" VerticalOptions="EndAndExpand" HeightRequest="60">
+                <Button Text="Log-out" FontSize="Large" BackgroundColor="#F28705" VerticalOptions="CenterAndExpand" FontAttributes="Bold"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

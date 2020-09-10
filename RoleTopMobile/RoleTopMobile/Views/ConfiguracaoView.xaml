@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RoleTopMobile.Views.ConfiguracaoView">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#1F1B24">
+            <StackLayout Orientation="Horizontal" Margin="0,0,0,20"  BackgroundColor="DarkOrange" Padding="20,10,20,10">
+                <ImageButton Source="baseline_arrow_back_black.xml" 
+                    Scale="1.7" 
+                    Margin="5,0,0,0"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="StartAndExpand"
+                    Clicked="BtnBack_Clicked"
+                    BackgroundColor="Transparent" />
+
+                <Label Text="Configurações" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                       FontSize="Title" TextColor="Black" 
+                       FontAttributes="Bold"/>
+                <Image Source="appstore.png" HeightRequest="50"
+                    VerticalOptions="StartAndExpand" 
+                    HorizontalOptions="EndAndExpand" />
+            </StackLayout>
+
+            <ListView
+                ItemsSource="{Binding Usuarios}"
+                HasUnevenRows="true"
+                >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <StackLayout HorizontalOptions="CenterAndExpand">
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Nome" TextColor="#B429CC" FontAttributes="Bold"  WidthRequest="250" FontSize="Large" ></Label>
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal" Padding="0,0,0,10">
+                                        <Entry Placeholder="{Binding nome}" FontAttributes="Italic" PlaceholderColor="Violet" ClearButtonVisibility="WhileEditing" WidthRequest="150"></Entry>
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Email" TextColor="#B429CC" FontAttributes="Bold" FontSize="Large" WidthRequest="250"></Label>
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal" Padding="0,0,0,10">
+                                        <Entry Placeholder="{Binding email}"  FontAttributes="Italic" PlaceholderColor="Violet" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Senha" TextColor="#B429CC" FontAttributes="Bold" FontSize="Large" WidthRequest="250"></Label>
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal" Padding="0,0,0,10">
+                                        <Entry IsPassword="True" Placeholder="{Binding senha}" PlaceholderColor="Violet" FontAttributes="Italic" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Confirmar senha" TextColor="#B429CC" FontAttributes="Bold" FontSize="Large" WidthRequest="250" Visual="Material"></Label>
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal" Padding="0,0,0,10">
+                                        <Entry IsPassword="True" Placeholder="{Binding senha}" PlaceholderColor="Violet" FontAttributes="Italic" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                                    </StackLayout>
+
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Apelido / Nickname" TextColor="#B429CC" FontAttributes="Bold" FontSize="Large" WidthRequest="250" Visual="Material"></Label>
+                                    </StackLayout>
+
+
+                                    <StackLayout Orientation="Horizontal" Padding="0,0,0,10" >
+                                        <Entry Placeholder="{Binding apelido}"  FontAttributes="Italic" PlaceholderColor="Violet" ClearButtonVisibility="WhileEditing" WidthRequest="250"></Entry>
+                                    </StackLayout>
+
+                                    <StackLayout Padding="0,0,0,0">
+                                        <Button Text="Salvar" FontAttributes="Bold" FontSize="Large" BackgroundColor="DarkOrange" TextColor="Black" CornerRadius="17" Clicked="BtnCadastro_Clicked"></Button>
+                                    </StackLayout>
+                                </StackLayout>
+
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

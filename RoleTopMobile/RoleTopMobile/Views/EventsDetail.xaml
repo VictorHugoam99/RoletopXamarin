@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RoleTopMobile.Views.EventsDetail"
+             Title="Eventos">
+    <ContentPage.Content>
+
+        <StackLayout BackgroundColor="#1F1B24">
+            <StackLayout Orientation="Horizontal" Margin="5" Padding="10">
+                <Image Source="baseline_arrow_back_white_36.png" HeightRequest="30"
+                    VerticalOptions="CenterAndExpand" 
+                    HorizontalOptions="StartAndExpand">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="OnClickBack"  NumberOfTapsRequired="1" />
+                    </Image.GestureRecognizers>
+                </Image>
+                <Label Text="Eventos" TextColor="#F29F05" FontSize="30" HorizontalTextAlignment="Center" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+                <Image Source="appstore.png" HeightRequest="50"
+                    VerticalOptions="StartAndExpand" 
+                    HorizontalOptions="EndAndExpand" />
+            </StackLayout>
+
+            <ScrollView Padding="10">
+                <StackLayout>
+                    <StackLayout Spacing="20" Padding="0,20,0,0" HorizontalOptions="CenterAndExpand">
+                        <Image Source="Maracana_2014_e.jpg" HeightRequest="250">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnClick"  NumberOfTapsRequired="1" />
+                            </Image.GestureRecognizers>
+                        </Image>
+                        <Label Text="Jogo" FontSize="16" TextColor="#F29F05" HorizontalOptions="CenterAndExpand">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnClick"></TapGestureRecognizer>
+                            </Label.GestureRecognizers>
+                        </Label>
+                        <Label Text="06/08/2020" FontSize="16" TextColor="#F29F05" HorizontalOptions="CenterAndExpand">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnClick"></TapGestureRecognizer>
+                            </Label.GestureRecognizers>
+                        </Label>
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+            <StackLayout VerticalOptions="EndAndExpand" HeightRequest="50" BackgroundColor="#F29F05" Orientation="Horizontal" >
+                <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand" Padding="40, 0, 0, 0">
+                    <Image Source="baseline_explore_24.xml" HorizontalOptions="Center"  Scale="1.5">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnClickExplore"  NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                </StackLayout>
+                <StackLayout VerticalOptions="CenterAndExpand"  HorizontalOptions="CenterAndExpand">
+                    <Image Source="baseline_map_24.xml" HorizontalOptions="Center"  Scale="1.5">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnClickMaps"  NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                </StackLayout>
+                <StackLayout VerticalOptions="CenterAndExpand"  HorizontalOptions="EndAndExpand" Padding="0, 0, 40, 0">
+                    <Image Source="baseline_arrow_upward_24.xml" HorizontalOptions="Center" Scale="1.5">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnClickArrow"  NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
